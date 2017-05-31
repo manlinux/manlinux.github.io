@@ -1,0 +1,8 @@
+title: Manlinux.GitHub.io
+description: reading and playing
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
