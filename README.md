@@ -1,2 +1,2 @@
 # manlinux.github.io
-reading and playing
+linux and first aid
